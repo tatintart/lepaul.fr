@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/xalep
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lepaul.fr
+  * I am xalep (https://keybase.io/xalep) on keybase.
+  * I have a public key ASA_WXrhnZZnlZPbhK4-fAU5ibnpRa9q-NjTz68elAxtkwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f0d2d98acae66c8e4467e9e4fa84f3919602e413aa403199fb4f844b6edd58b40a",
+            "host": "keybase.io",
+            "kid": "01203f597ae19d96679593db84ae3e7c053989b9e945af6af8d8d3cfaf1e940c6d930a",
+            "uid": "d73d56b4c3f98148519d65465d0a3619",
+            "username": "xalep"
+        },
+        "service": {
+            "hostname": "lepaul.fr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1472035025,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472034849,
+        "hash": "82c0a7df6e35808f58c4617a55f2fa0420adb2a68713890e5f39dc947f9e9ece86b4201e2e6fb6e39f487f13423aa108f9bb93c7641e5a180766a2b0d3692437",
+        "seqno": 598584
+    },
+    "prev": "06005e536c831cda3c9008302c9127e4610dfc890948e476f4662069afe9ca04",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgP1l64Z2WZ5WT24SuPnwFOYm56UWvavjY08+vHpQMbZMKp3BheWxvYWTFAu57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjBkMmQ5OGFjYWU2NmM4ZTQ0NjdlOWU0ZmE4NGYzOTE5NjAyZTQxM2FhNDAzMTk5ZmI0Zjg0NGI2ZWRkNThiNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwM2Y1OTdhZTE5ZDk2Njc5NTkzZGI4NGFlM2U3YzA1Mzk4OWI5ZTk0NWFmNmFmOGQ4ZDNjZmFmMWU5NDBjNmQ5MzBhIiwidWlkIjoiZDczZDU2YjRjM2Y5ODE0ODUxOWQ2NTQ2NWQwYTM2MTkiLCJ1c2VybmFtZSI6InhhbGVwIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJsZXBhdWwuZnIiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3MjAzNTAyNSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcyMDM0ODQ5LCJoYXNoIjoiODJjMGE3ZGY2ZTM1ODA4ZjU4YzQ2MTdhNTVmMmZhMDQyMGFkYjJhNjg3MTM4OTBlNWYzOWRjOTQ3ZjllOWVjZTg2YjQyMDFlMmU2ZmI2ZTM5ZjQ4N2YxMzQyM2FhMTA4ZjliYjkzYzc2NDFlNWExODA3NjZhMmIwZDM2OTI0MzciLCJzZXFubyI6NTk4NTg0fSwicHJldiI6IjA2MDA1ZTUzNmM4MzFjZGEzYzkwMDgzMDJjOTEyN2U0NjEwZGZjODkwOTQ4ZTQ3NmY0NjYyMDY5YWZlOWNhMDQiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBmmU1lyaTkksxVLgNjMvBj9HLxXpDeeRJLeTDOqRko+A5cTe1a80xikJHsjNmL6woWJN+KH4EDrkLK/G45njYPqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgJhWotGNQuU1ynJGGOdU4EocOgaH3GiOlObiQgYk5QG6jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xalep
+
+==================================================================
